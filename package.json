@@ -7,6 +7,6 @@
     "test": "mocha -R spec spec/iterators_test.js"
   },
   "dependencies": {
-    "chai": "^1.9.1"
+    "chai": "^1.9.2"
   }
 }
